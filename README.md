@@ -47,7 +47,7 @@ Os arquivos JSON são salvos automaticamente na raiz do projeto, como por exempl
 ## 🖼 Demonstração
 
 ### 🔹 Execução no console
-![Execução do programa](assets/console.png)
+![Execução do programa](assets/Console.png)
 
 ![Execução do programa](assets/consoleResultado.png)
 
